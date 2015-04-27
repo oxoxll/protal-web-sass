@@ -1,0 +1,15 @@
+/* @import "compass/reset"; */
+/* line 1, ../sass/_placeholders.scss */
+.inline, .inline123 {
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  *zoom: 1;
+  *display: inline;
+}
+
+/* line 5, ../sass/_placeholders.scss */
+.clear {
+  overflow: hidden;
+  *zoom: 1;
+}

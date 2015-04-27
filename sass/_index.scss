@@ -1,0 +1,11 @@
+.clear {
+    @extend %clearfix;
+}
+
+.inline {
+    @extend %inline-block;
+}
+
+.inline123 {
+    @extend %inline-block;
+}

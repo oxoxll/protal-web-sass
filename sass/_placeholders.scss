@@ -1,0 +1,7 @@
+%inline-block {
+    @include inline-block();
+}
+
+%clearfix {
+    @include clearfix();
+}
